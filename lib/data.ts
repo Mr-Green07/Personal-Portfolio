@@ -30,15 +30,6 @@ export const education = [
       "Full Stack Development",
     ],
   },
-  {
-    id: "ansc",
-    institution: "A.N.S College",
-    degree: "Intermediate – BSEB",
-    duration: "2021 – 2023",
-    location: "Aurangabad, Bihar",
-    grade: "Percentage: 70%",
-    coursework: [],
-  },
 ];
 
 export const projects = [
@@ -106,6 +97,7 @@ export const skills = {
     { name: "JavaScript", level: 68 },
     { name: "SQL", level: 70 },
     { name: "HTML / CSS", level: 75 },
+    { name: "Rust", level: 65},
   ],
   aiml: [
     { name: "Deep Learning", level: 85 },
@@ -115,6 +107,7 @@ export const skills = {
     { name: "Speech Recognition", level: 78 },
     { name: "NLP", level: 75 },
     { name: "Edge AI", level: 72 },
+    
   ],
   libraries: [
     { name: "TensorFlow", level: 83 },
@@ -123,6 +116,7 @@ export const skills = {
     { name: "Pandas", level: 85 },
     { name: "Flask", level: 70 },
     { name: "Git / GitHub", level: 80 },
+    { name: "Power BI", level: 70},
   ],
   concepts: [
     "Signal Processing",
