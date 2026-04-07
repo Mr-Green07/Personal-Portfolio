@@ -118,8 +118,12 @@ export default function AboutPage() {
                     <span className="w-2 h-2 rounded-full bg-teal-400 animate-pulse" />
                     <span className="text-sm font-semibold text-teal-400">Status</span>
                   </div>
-                  <p className="text-white font-medium text-sm">Open to AI/ML Opportunities</p>
+                  <p className="py-2 text-white font-medium text-sm">Open to AI/ML Opportunities</p>
                   <p className="text-gray-400 text-xs mt-1">Full-time, internships & project collaborations</p>
+                  <p className="py-2 text-white text-sm font-medium mt-1">Open to System Engineering</p>
+                  <p className="text-gray-400 text-xs  mt-1">Full time, Internship & project collaboration</p>
+                  <p className="py-2 text-white font-medium text-sm">Open to Business Analyst Opportunities</p>
+                  <p className="text-gray-400 text-xs mt-1">Full time, Internship & project collaboration</p>
                 </div>
               </AnimatedSection>
             </div>

@@ -7,7 +7,7 @@ import { projects, skills, certifications } from "@/lib/data";
 import ProjectCard from "@/components/ProjectCard";
 import AnimatedSection from "@/components/AnimatedSection";
 
-const roles = ["AI / ML Engineer", "Deep Learning Dev", "Python Engineer", "Edge AI Builder"];
+const roles = ["AI / ML Engineer", "Deep Learning Dev", "Python Engineer", "Edge AI Builder","System Engineer","Business Analyst"];
 
 function TypewriterText({ words }: { words: string[] }) {
   const [idx, setIdx] = useState(0);
